@@ -4,7 +4,9 @@
 ## Inhalt
 
 [1 - Hardware](README_EN.md#1---hardware)
+
 &nbsp;&nbsp;[1.1 - Overview](README_EN.md#11---overview)
+
 &nbsp;&nbsp;[1.2 - Specs](README_EN.md#12---specs)
 &nbsp;&nbsp;[1.3 - Powersupply](README_EN.md#13---powersupply)
 &nbsp;&nbsp;[1.4 - CPU](README_EN.md#14---cpu)
