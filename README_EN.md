@@ -4,57 +4,31 @@
 ## Inhalt
 
 [1 - Hardware](README_EN.md#1---hardware)
-
 &nbsp;&nbsp;[1.1 - Overview](README_EN.md#11---overview)
-
 &nbsp;&nbsp;[1.2 - Specs](README_EN.md#12---specs)
-
 &nbsp;&nbsp;[1.3 - Powersupply](README_EN.md#13---powersupply)
-
 &nbsp;&nbsp;[1.4 - CPU](README_EN.md#14---cpu)
-
 &nbsp;&nbsp;[1.4 - PCI](README_EN.md#14---pci)
-
 &nbsp;&nbsp;[1.5 - Motherboard](README_EN.md#15---motherboard)
-
 &nbsp;&nbsp;[1.6 - Expansion](README_EN.md#16---expansion)
-
 &nbsp;&nbsp;[1.7 - Hard Drives / M.2 Ports](README_EN.md#17---hard-drives--m2-ports)
-
 &nbsp;&nbsp;[1.8 - PoE](README_EN.md#18---poe)
-
 &nbsp;&nbsp;[1.9 - RAM](README_EN.md#19---ram)
-
 [2 - Firmware](README_EN.md#2---firmware)
-
 &nbsp;&nbsp;[2.1 - BIOS](README_EN.md#21---bios)
-
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1.1 - Version](README_EN.md#211---versionen)
-
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1.2 - BIOS Setup](README_EN.md#212---bios-setup)
-
 &nbsp;&nbsp;[2.2 - BIOS Update](README_EN.md#22---bios-update)
-
 &nbsp;&nbsp;[2.3 - BIOS Recovery](README_EN.md#23---bios-recovery)
-
 &nbsp;&nbsp;[2.4 - Standard OS](README_EN.md#24---standard-os)
-
 [3 - Windows / Linux](README_EN.md#3---windows--linux)
-
 &nbsp;&nbsp;[3.1 Server OS](README_EN.md#31-server-os)
-
 &nbsp;&nbsp;[3.2 Desktop OS](README_EN.md#32-desktop-os)
-
 [4 - Mods](README_EN.md#4---mods)
-
 [5 - Power Consumption](README_EN.md#5---power-consumption)
-
 [6 - Reportet Problems](README_EN.md#6---reportet-problems)
-
 [7 - Links](README_EN.md#7---links)
-
 [8 - Pictures](README_EN.md#8---pictures)
-
 
 ## Note:
 
