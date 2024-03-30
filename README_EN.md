@@ -17,19 +17,22 @@
 [2 - Firmware](README_EN.md#2---firmware)
 &nbsp;&nbsp;[2.1 - BIOS](README_EN.md#21---bios)
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1.1 - Version](README_EN.md#211---versionen)
-#&nbsp;&nbsp;&nbsp;&nbsp;[2.1.2 - BIOS Setup](README_EN.md#212---bios-setup)
-#&nbsp;&nbsp;[2.2 - BIOS Update](README_EN.md#22---bios-update)
-#&nbsp;&nbsp;[2.3 - BIOS Recovery](README_EN.md#23---bios-recovery)
-#&nbsp;&nbsp;[2.4 - Standard OS](README_EN.md#24---standard-os)
-#[3 - Windows / Linux](README_EN.md#3---windows--linux)
-#&nbsp;&nbsp;[3.1 Server OS](README_EN.md#31-server-os)
-#&nbsp;&nbsp;[3.2 Desktop OS](README_EN.md#32-desktop-os)
-#[4 - Mods](README_EN.md#4---mods)
-#[5 - Power Consumption](README_EN.md#5---power-consumption)
-#[6 - Reportet Problems](README_EN.md#6---reportet-problems)
-#[7 - Links](README_EN.md#7---links)
-#[8 - Pictures](README_EN.md#8---pictures)
-
+<!--
+&nbsp;&nbsp;&nbsp;&nbsp;[2.1.2 - BIOS Setup](README_EN.md#212---bios-setup)
+&nbsp;&nbsp;[2.2 - BIOS Update](README_EN.md#22---bios-update)
+&nbsp;&nbsp;[2.3 - BIOS Recovery](README_EN.md#23---bios-recovery)
+&nbsp;&nbsp;[2.4 - Standard OS](README_EN.md#24---standard-os)
+[3 - Windows / Linux](README_EN.md#3---windows--linux)
+&nbsp;&nbsp;[3.1 Server OS](README_EN.md#31-server-os)
+&nbsp;&nbsp;[3.2 Desktop OS](README_EN.md#32-desktop-os)
+[4 - Mods](README_EN.md#4---mods)
+[5 - Power Consumption](README_EN.md#5---power-consumption)
+[6 - Reportet Problems](README_EN.md#6---reportet-problems)
+[7 - Links](README_EN.md#7---links)
+[8 - Pictures](README_EN.md#8---pictures)
+-->
+dlaczego nie zawija.
+no dlaczego.
 ## Note:
 
 This guide is neither official, complete nor flawless!  
