@@ -1,6 +1,6 @@
 # Futro S740 - Guide/ Specs/ Information
 
-\> English version [here](https://github.com/R3NE07/Futro-S740/blob/main/README_EN.md) <  
+\> English version [here](https://github.com/Bartek-Be/Futro-S740/blob/main/README_EN.md) <  
 
 ## Inhalt
 
